@@ -1,5 +1,9 @@
 # The URL the site will be built for
 base_url = "https://lazy.landman.cloud"
+theme = "lightspeed"
+
+title = "Lazy Recipes"
+description = "Tasty recipes that try to remove the fluff."
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -14,3 +18,8 @@ highlight_code = false
 
 [extra]
 # Put all your custom variables here
+author = "Davy Landman"
+# obimage = ...
+netlify = false
+maintained_with_love = false
+footer_tagline = "Enjoy food without overhead"
