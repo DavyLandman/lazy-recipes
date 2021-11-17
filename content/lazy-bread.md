@@ -13,7 +13,7 @@ Since the steps are reduced, the structure is a bit more dense, and since no sou
 - 200g whole grain flour
 - 6g salt
 - 0.5g dry instance yeast (it's roughly ⅛ teaspoon)
-- 290g cold water
+- 290g luke-warm water (in the summer use cold water)
 
 ## Steps
 ### Evening before
@@ -23,7 +23,7 @@ Roughly half an hour before going to sleep.
 2. Cover with **wet** tea towel and wait 30 minutes
 3. Wet your hands and strech and fold the dough: [Grab a side, stretch it upwards, fold it over-itself](https://www.theclevercarrot.com/2020/05/how-to-stretch-and-fold-sourdough/)
 4. Cover with **wet** tea towel
-5. Put it in a place that is roughly 18C (In the summer I put it next to a window)
+5. Put it in a place that is roughly 20C (In the summer I put it next to a window)
 6. Let it slowly rise the whole night
 
 ### In the morning
