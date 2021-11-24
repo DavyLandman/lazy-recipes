@@ -11,7 +11,7 @@ This is the simplest version of a nice "Artisanal" style bread.
 Around 10 in the evening you mix the ingredients and next morning it is ready to bake.
 Since the steps are reduced, the structure is a bit more dense, and since no sourdough is involved, you might miss the slight tang.
 
-## Ingredients (1 loaf of 690g)
+## Ingredients (1 loaf of 700g)
 
 - 200g white flour (bread flour if available, at least get unbleached flour)
 - 200g whole grain flour
@@ -48,9 +48,14 @@ Roughly half an hour before going to sleep.
 15. Wait 2 hours before cutting into it, the bread is still baking a bit
 
 ## Creative tips
-- Once you get comfertable with the dough and recipe, try it with 300g or 310g water, if the flour can handle it, you'll get juicier bread.
-- Add Seeds, raisins, or olives (and rozemary) give a nice taste. Start with 75-100gr inclusie. Make sure to presoak the dried fruits, but remove excess moisture before adding to dough.
+- Once you get comfertable with the dough and recipe, try it with 310g or 320g water, if the flour can handle it, you'll get juicier bread.
 - 60% (or even 70%) whole grain flour is nice, above it requires a lot more skill.
+- Try some inclusions, start with 75-100gr. Make sure to presoak the dried fruits, but remove excess moisture before adding to dough. Inclusion suggestions?
+    - Seed mix
+    - Raisins
+    - Olives (cut them in half) & rosemary
+    - Figs & walnut
+    - Small chunks of dark chocolate
 
 ## Flour tips
 - You can replace white flour with white spelt flour
