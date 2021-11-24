@@ -17,7 +17,7 @@ Since the steps are reduced, the structure is a bit more dense, and since no sou
 - 200g whole grain flour
 - 6g salt
 - 0.5g dry instance yeast (it's roughly ⅛ teaspoon)
-- 290g luke-warm water (in the summer use cold water)
+- 300g luke-warm water (in the summer use cold water)
 
 ## Steps
 ### Evening before
