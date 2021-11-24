@@ -1,7 +1,11 @@
 +++
 title = "Lazy Overnight Artisanal Bread"
 date = 2021-11-06
+[extra]
+image = "/images/lazy-bread-main.jpg"
 +++
+
+![Bread shot](/images/lazy-bread-main.jpg)
 
 This is the simplest version of a nice "Artisanal" style bread.
 Around 10 in the evening you mix the ingredients and next morning it is ready to bake.
@@ -53,3 +57,11 @@ Roughly half an hour before going to sleep.
 - You can add 50g of whole grain rye flour and only add 150g of another whole grain flour that does have glutten
 - If possible, get flour from a stone-ground mill, it really makes a difference.
 
+
+## Progress of the dough during the recipe
+
+- Mixing and folding: ![After mixing and folding](/images/lazy-bread-after-mixing-and-folding.jpg)
+- Shaping it the next day: ![](/images/lazy-bread-final-shaping-result.jpg)
+  ![](/images/lazy-bread-final-shaping-result-2.jpg)
+- Fliping it onto a peel to help transfer to the pan: ![](/images/lazy-bread-ready-for-baking.jpg)
+- Cutting it open after letting it cool down ![](/images/lazy-bread-crumb-structure.jpg)
