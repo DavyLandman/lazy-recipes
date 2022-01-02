@@ -1,0 +1,12 @@
+name: trigger-cloudflare
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - run: curl -X POST "${{ secrets.DEPLOY_TRIGGER_URL }}"
