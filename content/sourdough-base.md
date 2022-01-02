@@ -103,7 +103,7 @@ Now the time has come to bake your bread.
 The bread should be ready by lunch. Enjoy!
 
 ## Creative tips
-- Once you get comfertable with the dough and recipe, try it with 310g or 315g water, if the flour can handle it, you'll get juicier bread.
+- Once you get comfortable with the dough and recipe, try it with 310g or 315g water, if the flour can handle it, you'll get juicier bread.
 - 60% (or even 70%) whole grain flour is nice, above it requires a lot more skill.
 - Try some inclusions, start with 75-100gr. Make sure to presoak the dried fruits, but remove excess moisture before adding to dough. Inclusion suggestions:
     - Seed mix
