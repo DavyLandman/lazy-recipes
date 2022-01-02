@@ -101,3 +101,18 @@ Now the time has come to bake your bread.
 11. Wait 2 hours before cutting into it, the bread is still baking internally
 
 The bread should be ready by lunch. Enjoy!
+
+## Creative tips
+- Once you get comfertable with the dough and recipe, try it with 310g or 315g water, if the flour can handle it, you'll get juicier bread.
+- 60% (or even 70%) whole grain flour is nice, above it requires a lot more skill.
+- Try some inclusions, start with 75-100gr. Make sure to presoak the dried fruits, but remove excess moisture before adding to dough. Inclusion suggestions:
+    - Seed mix
+    - Raisins
+    - Olives (cut them in half) & rosemary
+    - Figs & walnut
+    - Small chunks of dark chocolate
+
+## Flour tips
+- You can replace white flour with white spelt flour
+- You can add 50g of whole grain rye flour and only add 150g of another whole grain flour that does have glutten
+- If possible, get flour from a stone-ground mill, it really makes a difference.
