@@ -2,8 +2,8 @@
 base_url = "https://recipes.landman.cloud"
 theme = "lightspeed"
 
-title = "No Fluff Recipes"
-description = "Tasty recipes that try to remove the fluff."
+title = "Minimalistic Recipes"
+description = "Tasty recipes without stories and unnecessary steps"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -23,4 +23,4 @@ author = "Davy Landman"
 zola = false
 netlify = false
 maintained_with_love = false
-footer_tagline = "Enjoy food without overhead"
+footer_tagline = "Enjoy food without loosing time"
