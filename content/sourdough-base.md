@@ -15,13 +15,18 @@ This recipe and technique is inspired by [FoodGeek's Master Recipe](https://www.
 
 ## Ingredients (1 loaf of 780g)
 
+Since this recipe is only flour and water, be sure to read the [Flour tips](#flour-tips) section on getting
+the right kind of flour.
+
 ### Levain
+
 - 20g white flour (bread flour if available, at least get unbleached flour)
 - 20g whole grain flour
 - 40g water
 - 8g active [sourdough starter](/sourdough-starter/)
 
 ### Bread
+
 - 200g white flour (bread flour if available, at least get unbleached flour)
 - 200g whole grain flour
 - 6g salt
@@ -30,7 +35,6 @@ This recipe and technique is inspired by [FoodGeek's Master Recipe](https://www.
 
 Note, this makes it into a 77% hydration bread, which is a good starting point. 
 Increasing the water to 315g will get you a 80% bread, which has a bit nicer crusts, but will be harder to shape.
-
 
 ## Steps
 
@@ -61,7 +65,7 @@ We will now be slowly growing the glutens in our dough and spreading the yeast c
 
 1. After mixing flour and salt add the starter and water (measure as accurate as you can)
 2. Take a spoon and start incorporating all the water with the flour, this should take max 2 minutes. The goal is to have no dry lumps anymore.
-3. Cover with **wet** tea towel and let it rest at a place that is roughly 20c
+3. Cover with **wet** tea towel and let it rest at a place that is roughly 20c (in the warm summer, put it in a cooler spot).
 
 #### Around lunch time
 
@@ -103,16 +107,19 @@ Now the time has come to bake your bread.
 The bread should be ready by lunch. Enjoy!
 
 ## Creative tips
+
 - Once you get comfortable with the dough and recipe, try it with 310g or 315g water, if the flour can handle it, you'll get juicier bread.
 - 60% (or even 70%) whole grain flour is nice, above it requires a lot more skill.
 - Try some inclusions, start with 75-100gr. Make sure to presoak the dried fruits, but remove excess moisture before adding to dough. Inclusion suggestions:
-    - Seed mix
-    - Raisins
-    - Olives (cut them in half) & rosemary
-    - Figs & walnut
-    - Small chunks of dark chocolate
+  - Seed mix
+  - Raisins
+  - Olives (cut them in half) & rosemary
+  - Figs & walnut
+  - Small chunks of dark chocolate
 
 ## Flour tips
+
+- If possible, get flour from a stone-ground mill, it really makes a difference.
+- Make sure the flour doesn't contain any additives (like bread risers or stabilizers)
 - You can replace white flour with white spelt flour
 - You can add 50g of whole grain rye flour and only add 150g of another whole grain flour that does have glutten
-- If possible, get flour from a stone-ground mill, it really makes a difference.

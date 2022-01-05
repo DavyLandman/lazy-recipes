@@ -17,6 +17,7 @@ Creating a new starter takes a few days, but after that, it's quite hard to kill
 ### Day one
 
 In an clean air-tight container (a jar for jams is good, or a weck-jar):
+
 1. Add 25g of white flour __and__ 25g of whole grain flour
 2. add 20g of grated apple (clean apple and greate including the skin)
 3. add 35g room-temperature water
@@ -24,11 +25,12 @@ In an clean air-tight container (a jar for jams is good, or a weck-jar):
 5. use a spoon to clean the sides of the jar (push it back down)
 6. mark (using a pen or a piece of tape) the level that you started with
 7. give it a name
-8. put it away at warm spot
+8. close lit and put it away at warm spot (20-23c is best, avoid going over 30c)
 
-### Day two (and the coming 5/6 days)
+### Day three (and the coming 5/6 days)
 
 Take a new air-tight container:
+
 1. Stir the previous starter
 2. Transfer 10g to new container (throwout the rest)
 3. Add 25g of white flour __and__ 25g of whole grain flour
